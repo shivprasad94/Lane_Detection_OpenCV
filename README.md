@@ -21,6 +21,23 @@ Now, what if instead of a line, we had to plot a 'POINT' in the Cartesian coordi
 
 ![1_wVfCstrB_YLG_UZE3X5JLw](https://user-images.githubusercontent.com/13836633/100738882-4954c700-33fc-11eb-83d4-0ac42bf46b13.png)
 
+# System Setup 
+```
+pip install -r requirements.txt
+```
+
+Now Run "clientapp.py" file
+```
+python clientApp.py
+```
+Terminal :
+```
+Want to Execute on image or Video 
+ 1 for image 
+ 2 for video...... 
+```
+Select 1 for image and 2 for video
+
 # Output
 
 ![F26827C6-2CF0-46F7-B07A-631B7ECFDC53](https://user-images.githubusercontent.com/13836633/100738629-dcd9c800-33fb-11eb-85f3-afa7d0a8a5ef.GIF)
