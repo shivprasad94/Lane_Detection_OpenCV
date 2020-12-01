@@ -40,4 +40,10 @@ Select 1 for image and 2 for video
 
 # Output
 
+Image:
+
+![image](https://user-images.githubusercontent.com/13836633/100742280-8d49cb00-3400-11eb-92e8-fa7a52648986.png)
+
+Video:
+
 ![F26827C6-2CF0-46F7-B07A-631B7ECFDC53](https://user-images.githubusercontent.com/13836633/100738629-dcd9c800-33fb-11eb-85f3-afa7d0a8a5ef.GIF)
